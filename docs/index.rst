@@ -263,7 +263,7 @@ In December 2012, the proxy for The Pirate Bay, operated by the Pirate Party UK,
 
 
 *********
-How to access The Pirate Proxy ecurely 
+How to access The Pirate Proxy securely 
 *********
 
 Here we have provided the list of some of the fastest, most functional mirror clones in the world that are safe to access. The list of all pirate proxies mentioned on our website is checked regularly and goes through the verification process before they are put into operation. The following lists are checked daily for availability and then sorted by country and speed. 
