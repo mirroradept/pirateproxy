@@ -11,10 +11,13 @@ Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allo
 Unblock The Pirate Bay with one of these proxy sites.
 
 1. https://thepiratebay.org 
-2. https://thepiratebay.proxyninja.net
+2. https://thepiratebay.proxyninja.org
 3. https://thepiratebay.unblockninja.com
 4. https://tpb.proxyninja.org
 5. https://thepiratebay.ninjaproxy1.com
+6. https://thepiratebay.torrentbay.st
+7. https://thepiratebay.unblockit.black
+8. https://unblocked.knaben.info/thepiratebay.php
 
 Pirate Bay alternative torrent sites list:
 
