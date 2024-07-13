@@ -1,7 +1,7 @@
 # Pirate Proxy List 2024: Unblock The Pirate Bay
 
 
-Proxy sites are the easiest methods to bypass the block. Pirate Proxy List maintains a list of proxy sites that allow access to The Pirate Bay. Since 2011 ISPs in the UK, Netherland, Belgium and now France have been blocking many file sharing websites including The PirateBay. However their efforts seem to be counterproductive as Torrenting and other file sharing traffic is not decreasing. This is due to the help of information websites such as Torrent Proxy Portals that provide an up to date proxy list for ThePirateBay (TPB), and further information on how to avoid censorship using alternate methods. We periodically check our Pirate Bay proxy list against several major ISPs around Europe to make sure they have not been blocked.
+Proxy sites are the easiest methods to bypass the block. [Pirate Proxy List](https://unblocktorrent.org/piratebay-proxy-unblock/) maintains a list of proxy sites that allow access to The Pirate Bay. Since 2011 ISPs in the UK, Netherland, Belgium and now France have been blocking many file sharing websites including The PirateBay. However their efforts seem to be counterproductive as Torrenting and other file sharing traffic is not decreasing. This is due to the help of information websites such as Torrent Proxy Portals that provide an up to date proxy list for ThePirateBay (TPB), and further information on how to avoid censorship using alternate methods. We periodically check our Pirate Bay proxy list against several major ISPs around Europe to make sure they have not been blocked.
 
 
 ## Pirate Bay Proxy List
@@ -10,10 +10,15 @@ Can't access The Pirate Bay? Try one of the proxy sites below. A proxy site allo
 
 Unblock The Pirate Bay with one of these proxy sites.
 
-1. https://thepiratebay.proxyninja.net
-2. https://thepiratebay.unblockninja.com
-3. https://tpb.proxyninja.org
-4. https://thepiratebay.ninjaproxy1.com
+1. https://thepiratebay.org 
+2. https://thepiratebay.proxyninja.net
+3. https://thepiratebay.unblockninja.com
+4. https://tpb.proxyninja.org
+5. https://thepiratebay.ninjaproxy1.com
+
+Pirate Bay alternative torrent sites list:
+
+- https://unblocktorrent.org
 
 
 ## Countries blocking access to The Pirate Bay
