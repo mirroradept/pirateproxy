@@ -18,6 +18,7 @@ Unblock The Pirate Bay with one of these proxy sites.
 6. https://thepiratebay.torrentbay.st
 7. https://thepiratebay.unblockit.black
 8. https://unblocked.knaben.info/thepiratebay.php
+9. https://www.torrenttrackerslist.com/piratebay-proxies (live-checked every 4 min, JSON: https://www.torrenttrackerslist.com/piratebay-proxies/list.json)
 
 Pirate Bay alternative torrent sites list:
 
